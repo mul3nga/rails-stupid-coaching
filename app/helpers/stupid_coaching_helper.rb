@@ -1,0 +1,2 @@
+module StupidCoachingHelper
+end
